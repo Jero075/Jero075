@@ -1,4 +1,4 @@
-# 👤 About Me:
+# 👤 About Me
 Student from Switzerland<br>Likes Linux and Coding (especially Go)<br>Arch Linux and Hyprland user<br>Website: [www.jereileu.ch](https://www.jereileu.ch)
 
 
