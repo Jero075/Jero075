@@ -1,5 +1,5 @@
 # 👤 About Me
-Student from Switzerland<br>Likes Linux and Coding (especially Go)<br>Arch Linux and Hyprland user<br>Website: [www.jereileu.ch](https://www.jereileu.ch)
+Student from Switzerland<br>Likes Linux and Coding (especially Go)<br>Arch Linux and Hyprland user<br>Website: [www.jereileu.ch](https://www.jereileu.ch)<br><br>**New repositories are exclusively available at [git.jereileu.ch](https://git.jereileu.ch)**
 
 # 🌐 Social Links
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://git.jereileu.ch/Jero075)[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jero075)[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/752039724230770769)[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198361284639)[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://itch.io/profile/jero075)
