@@ -1,5 +1,5 @@
 # 👤 About Me
-Student from Switzerland<br>Likes Linux and Coding (especially Go)<br>Arch Linux and Hyprland user<br>Website: [www.jereileu.ch](https://www.jereileu.ch)<br><br>
+Student<br>Likes Linux and Coding (especially Go)<br>Arch Linux and Hyprland user<br>Website: [www.jereileu.ch](https://www.jereileu.ch)<br><br>
 ### **New repositories are exclusively available at [git.jereileu.ch](https://git.jereileu.ch)**
 
 # 🌐 Social Links
